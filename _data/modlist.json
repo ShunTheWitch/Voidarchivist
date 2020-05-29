@@ -334,5 +334,23 @@
     "name": "Medieval Bones",
     "steamId": "1578898715",
     "version": null
+  },
+  {
+    "author": "Sarg",
+    "name": "Magical Menagerie",
+    "steamId": "1821617793",
+    "version": null
+  },
+  {
+    "author": "Ysimir",
+    "name": "Magical Freezer",
+    "steamId": "935143958",
+    "version": null
+  },
+  {
+    "author": "Fluffy",
+    "name": "Blueprints",
+    "steamId": "708455313",
+    "version": "2.16.131"
   }
 ]
