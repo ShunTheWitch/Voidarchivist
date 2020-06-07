@@ -1,0 +1,122 @@
+[
+  {
+    "author": "Andreas Pardeike",
+    "name": "Harmony",
+    "steamId": "2009463077",
+    "version": "1.0.2.0"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "ToolkitCore",
+    "steamId": "2018368654",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "Twitch Toolkit",
+    "steamId": "1718525787",
+    "version": "2.0.10.0"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "7.2.1"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "TwitchToolkit - Lootboxes",
+    "steamId": "1720021578",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "swemoney",
+    "name": "Toolkit - Channel Points",
+    "steamId": "1916651243",
+    "version": "1.2.0"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "ToolkitBitGoals",
+    "steamId": "2079151972",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "clodan",
+    "name": "Twitch Colony Stats",
+    "steamId": "2038056140",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "0",
+    "version": "4.0.7.0"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Puppeteer",
+    "steamId": "2057192142",
+    "version": "0.3.0.0"
+  },
+  {
+    "author": "Shaun McFall",
+    "name": "Designator Shapes",
+    "steamId": "1235181370",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Camera+",
+    "steamId": "867467808",
+    "version": "2.0.1.9"
+  },
+  {
+    "author": "RamRod",
+    "name": "Fallout Core",
+    "steamId": "0",
+    "version": "1.2.0.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Mint Menus",
+    "steamId": "1446523594",
+    "version": "1.2.644"
+  },
+  {
+    "author": "Herigony",
+    "name": "Map Edit Tools",
+    "steamId": "1796223954",
+    "version": "1.1.2"
+  },
+  {
+    "author": "DoctorVanGogh, Aviuz",
+    "name": "ModSwitch",
+    "steamId": "1139051045",
+    "version": "2.1.0.303"
+  },
+  {
+    "author": "Twink315",
+    "name": "Vault-Tec - Handy things for your vault!",
+    "steamId": "1888778429",
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Furniture Expanded - Props and Decor",
+    "steamId": "2102143149",
+    "version": null
+  },
+  {
+    "author": "void",
+    "name": "Character Editor",
+    "steamId": "1874644848",
+    "version": null
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races 2.0",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  }
+]
