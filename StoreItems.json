@@ -2,37 +2,37 @@
 	"items" : [
 	{
 		"abr": "agavefruit",
-		"price": -10,
+		"price": 2,
 		"category": "Vegetarian",
 		"defname": "RawAgave"
 	},
 	{
 		"abr": "alpaca",
-		"price": -10,
+		"price": 583,
 		"category": "Animal",
 		"defname": "Alpaca"
 	},
 	{
 		"abr": "alpacameat",
-		"price": -10,
+		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Alpaca"
 	},
 	{
 		"abr": "alpacawool",
-		"price": -10,
+		"price": 4,
 		"category": "Textiles",
 		"defname": "WoolAlpaca"
 	},
 	{
 		"abr": "alphabeaver",
-		"price": -10,
+		"price": 417,
 		"category": "Animal",
 		"defname": "Alphabeaver"
 	},
 	{
 		"abr": "alphabeavermeat",
-		"price": -10,
+		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Alphabeaver"
 	},
@@ -1610,7 +1610,7 @@
 	},
 	{
 		"abr": "animusstone",
-		"price": -10,
+		"price": 8333,
 		"category": "Misc",
 		"defname": "AnimusStone"
 	},
@@ -1778,19 +1778,19 @@
 	},
 	{
 		"abr": ".357magnumrevolver",
-		"price": -10,
+		"price": 223,
 		"category": "Ranged weapons",
 		"defname": "FCP_Pistol_357MagnumRevolver"
 	},
 	{
 		"abr": "10mmpistol",
-		"price": -10,
+		"price": 250,
 		"category": "Ranged weapons",
 		"defname": "FCP_Pistol_10mm"
 	},
 	{
 		"abr": "10mmpistol",
-		"price": -10,
+		"price": 226,
 		"category": "Ranged weapons",
 		"defname": "FCP_Pistol_Vault10mm"
 	},
@@ -1802,73 +1802,73 @@
 	},
 	{
 		"abr": "12.7mmpistolpistol",
-		"price": -10,
+		"price": 592,
 		"category": "Ranged weapons",
 		"defname": "FCP_Pistol_12_7mmPistol"
 	},
 	{
 		"abr": "1streconassaultarmor",
-		"price": -10,
+		"price": 1317,
 		"category": "Armor",
 		"defname": "FCP_Apparel_NCR_ReconAssaultArmor"
 	},
 	{
 		"abr": "1streconberet",
-		"price": -10,
+		"price": 260,
 		"category": "Armor",
 		"defname": "FCP_NCR_HG_1ReconBeret"
 	},
 	{
 		"abr": "44magnumrevolver",
-		"price": -10,
+		"price": 583,
 		"category": "Ranged weapons",
 		"defname": "FCP_Pistol_44MagnumRevolver"
 	},
 	{
 		"abr": "9mmpistol",
-		"price": -10,
+		"price": 220,
 		"category": "Ranged weapons",
 		"defname": "FCP_Pistol_9mm"
 	},
 	{
 		"abr": "9mmsmg",
-		"price": -10,
+		"price": 342,
 		"category": "Ranged weapons",
 		"defname": "FCP_SMG_9mmSGM"
 	},
 	{
 		"abr": "advancedcomponent",
-		"price": -10,
+		"price": 333,
 		"category": "Manufactured",
 		"defname": "ComponentSpacer"
 	},
 	{
 		"abr": "aer14prototype",
-		"price": -10,
+		"price": 1350,
 		"category": "Ranged weapons",
 		"defname": "FCP_EnergyLaser_AER14Protoytpe"
 	},
 	{
 		"abr": "aestheticnose",
-		"price": -10,
+		"price": 975,
 		"category": "Bionic",
 		"defname": "AestheticNose"
 	},
 	{
 		"abr": "aestheticshaper",
-		"price": -10,
+		"price": 1383,
 		"category": "Bionic",
 		"defname": "AestheticShaper"
 	},
 	{
 		"abr": "albinoyaoguai",
-		"price": -10,
+		"price": 1167,
 		"category": "Animal",
 		"defname": "AlbinoYaoguai"
 	},
 	{
 		"abr": "alienblaster",
-		"price": -10,
+		"price": 592,
 		"category": "Ranged weapons",
 		"defname": "FCP_Pistol_AlienBlaster"
 	},
@@ -1880,13 +1880,13 @@
 	},
 	{
 		"abr": "antigrainwarhead",
-		"price": -10,
+		"price": 2000,
 		"category": "Mortar shells",
 		"defname": "Shell_AntigrainWarhead"
 	},
 	{
 		"abr": "anti-materielrifle",
-		"price": -10,
+		"price": 750,
 		"category": "Ranged weapons",
 		"defname": "FCP_Rifle_AntiMaterialRifle"
 	},
