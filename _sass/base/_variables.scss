@@ -21,32 +21,32 @@ $sm-break: 576px;
 $x-sm-break: 300px;
 
 // Brand colours
-$theme-color: #337ab7;
-$brand-color: #fff;
-$background-color: #fff;
-$border-color: rgba(0, 0, 0, 0.1); // rgba recommended if using feature images
+$theme-color: #09cbd4; // Twitch Logo
+$brand-color: #202020; // Top bar colour 
+$background-color: #181818;
+$border-color: #3a3a3a; // rgba recommended if using feature images
 
 // Typography colours
-$text-color: #262626;
+$text-color: #f0e7d5;
 $meta: #595959; //lowest gray for accessible color
 $link-color: $theme-color;
 $selection-color: #D4D4D4; // visible when highlighting text
-$blockquote-color: #EEF7FA; // $background-color;
+$blockquote-color: #8f09d4; // $background-color;
 
 // Header
 $header-background-color: $theme-color;  // Only used when no header image
-$header-text-color: #fff;
-$header-link-color: #383838;
+$header-text-color: #f0e7d5;
+$header-link-color: #f0e7d5;
 $navbar-separator-opacity: 0;
 
 // Feature image for articles
-$feature-image-text-color: #fff;
+$feature-image-text-color: #8f09d4;
 $feature-image-size: cover; // options include "cover", "contain", "auto"
 
 //Search colours
 $link-shadow: transparentize($link-color, .6); //rgba(26, 188, 156, 0.6);
 $text-shadow: #3f3f3f;
-$search-color: #999;
+$search-color: #8f09d4;
 
 
 /*  Syntax highlighting  */
@@ -56,14 +56,14 @@ $font-size-code: 0.75em !default; // ~12px
 $border-radius: 4px !default;
 
 // base16 Material Theme
-$base00: #263238 !default; // Default Background
+$base00: #8f09d4 !default; // Default Background
 $base01: #2E3C43 !default; // Lighter Background (Used for status bars)
 $base02: #314549 !default; // Selection Background
 $base03: #546E7A !default; // Comments, Invisibles, Line Highlighting
 $base04: #B2CCD6 !default; // Dark Foreground (Used for status bars)
-$base05: #EEFFFF !default; // Default Foreground, Caret, Delimiters, Operators
-$base06: #EEFFFF !default; // Light Foreground (Not often used)
-$base07: #FFFFFF !default; // Light Background (Not often used)
+$base05: #f0e7d5 !default; // Default Foreground, Caret, Delimiters, Operators
+$base06: #f0e7d5 !default; // Light Foreground (Not often used)
+$base07: #f0e7d5 !default; // Light Background (Not often used)
 $base08: #F07178 !default; // Variables, XML Tags, Markup Link Text, Markup Lists, Diff Deleted
 $base09: #F78C6C !default; // Integers, Boolean, Constants, XML Attributes, Markup Link Url
 $base0a: #FFCB6B !default; // Classes, Markup Bold, Search Text Background
