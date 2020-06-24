@@ -70,13 +70,6 @@
     "userLevel": "UserLevel"
   },
   {
-    "description": "Gives a viewer some of your coins.",
-    "name": "Gift coins",
-    "shortcut": false,
-    "usage": "!giftcoins <viewer> <amount>",
-    "userLevel": "UserLevel"
-  },
-  {
     "description": "Adds you to the name queue.",
     "name": "Join queue",
     "shortcut": false,
@@ -326,6 +319,13 @@
     "name": "Unstick",
     "shortcut": false,
     "usage": "!unstick",
+    "userLevel": "Moderator"
+  },
+  {
+    "description": "Toggles whether or not viewers can actively purchase things from the store.",
+    "name": "Toggle store",
+    "shortcut": false,
+    "usage": "!togglestore",
     "userLevel": "Moderator"
   },
   {
