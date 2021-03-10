@@ -4828,138 +4828,6 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Meat_Muffalo": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "RimWorld",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_Gazelle": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "RimWorld",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_Iguana": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "RimWorld",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_Dromedary": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "RimWorld",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_Bear_Grizzly": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "RimWorld",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_Cougar": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "RimWorld",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_Panther": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "RimWorld",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_Lynx": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "RimWorld",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_Cassowary": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "RimWorld",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_Turkey": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "RimWorld",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_Chicken": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "RimWorld",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_Pig": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "RimWorld",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
   "Meat_Cow": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -4971,403 +4839,7 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Meat_Alpaca": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "RimWorld",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_Duck": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "RimWorld",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_Bison": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "RimWorld",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_Goat": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "RimWorld",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_Sheep": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "RimWorld",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_Horse": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "RimWorld",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_Yak": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "RimWorld",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_GuineaPig": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "RimWorld",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_Donkey": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "RimWorld",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_Rhinoceros": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "RimWorld",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_Elephant": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "RimWorld",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_Megasloth": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "RimWorld",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_Thrumbo": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "RimWorld",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_Hare": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "RimWorld",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
   "Meat_Megaspider": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "RimWorld",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_YorkshireTerrier": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "RimWorld",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_Husky": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "RimWorld",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_LabradorRetriever": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "RimWorld",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_Cat": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "RimWorld",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_Squirrel": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "RimWorld",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_Alphabeaver": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "RimWorld",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_Capybara": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "RimWorld",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_Chinchilla": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "RimWorld",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_Boomrat": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "RimWorld",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_Raccoon": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "RimWorld",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_Rat": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "RimWorld",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_Deer": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "RimWorld",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_Ibex": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "RimWorld",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_Elk": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "RimWorld",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_Caribou": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "RimWorld",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_Tortoise": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "RimWorld",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_Cobra": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "RimWorld",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_Monkey": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "RimWorld",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_Boomalope": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "RimWorld",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_Warg": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "RimWorld",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_Wolf_Timber": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "RimWorld",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_Fox_Fennec": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -8337,311 +7809,179 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Meat_TM_DemonR": {
+  "LWM_WeaponsLocker": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "LWM's Deep Storage",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Meat_TM_LesserDemonR": {
+  "LWM_WeaponsCabinet": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "LWM's Deep Storage",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Meat_TM_Dire_WolfR": {
+  "LWM_Safe": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "LWM's Deep Storage",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Meat_TM_LesserEarth_ElementalR": {
+  "LWM_Clothing_Rack": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "LWM's Deep Storage",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Meat_TM_Earth_ElementalR": {
+  "LWM_Medicine_Cabinet": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "LWM's Deep Storage",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Meat_TM_GreaterEarth_ElementalR": {
+  "LWM_DeepStorage_Skip": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "LWM's Deep Storage",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Meat_TM_LesserFire_ElementalR": {
+  "LWM_Pallet_Covered": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "LWM's Deep Storage",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Meat_TM_Fire_ElementalR": {
+  "LWM_Pallet": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "LWM's Deep Storage",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Meat_TM_GreaterFire_ElementalR": {
+  "LWM_FabricHamper": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "LWM's Deep Storage",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Meat_TM_LesserWater_ElementalR": {
+  "LWM_Hayloft": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "LWM's Deep Storage",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Meat_TM_Water_ElementalR": {
+  "LWM_Meat_Hook": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "LWM's Deep Storage",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Meat_TM_GreaterWater_ElementalR": {
+  "LWM_Food_Basket": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "LWM's Deep Storage",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Meat_TM_LesserWind_ElementalR": {
+  "LWM_MealRack": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "LWM's Deep Storage",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Meat_TM_Wind_ElementalR": {
+  "LWM_VeryBigShelf": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "LWM's Deep Storage",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Meat_TM_GreaterWind_ElementalR": {
+  "LWM_BigShelf": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "LWM's Deep Storage",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Meat_TM_MinionR": {
+  "GooseGun": {
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_TM_GreaterMinionR": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_TM_Lesser_SentinelR": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_TM_SentinelR": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_TM_Greater_SentinelR": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_TM_SkeletonLichR": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_TM_GiantSkeletonR": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_TM_SkeletonR": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_TM_SpiritBearR": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_TM_SpiritMongooseR": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_TM_SpiritCrowR": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_TM_SpiritWolfR": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Meat_TM_Poppi": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "A RimWorld of Magic",
+    "Mod": "Goosegun",
     "QuantityLimit": -1,
     "Weight": 1.0
   }
