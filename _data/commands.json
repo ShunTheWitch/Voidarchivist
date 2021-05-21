@@ -583,28 +583,9 @@
     "data": {
       "isShortcut": false
     },
-    "description": "Shows information about your current RimWorld of Magic class. This command will only be usable when RimWorld of Magic is installed.",
-    "name": "Viewer class",
-    "usage": "!mypawnclass",
-    "userLevel": "Anyone",
-    "shortcut": false
-  },
-  {
-    "data": {
-      "isShortcut": false
-    },
     "name": "hello",
     "usage": "!hello",
     "userLevel": "Moderator",
-    "shortcut": false
-  },
-  {
-    "data": {
-      "isShortcut": false
-    },
-    "name": "joinraid",
-    "usage": "!joinraid",
-    "userLevel": "Anyone",
     "shortcut": false
   }
 ]
