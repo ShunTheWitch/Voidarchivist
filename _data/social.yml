@@ -4,34 +4,34 @@ email_address:
 behance:
 bitbucket:
 dribbble:
-facebook: FuzzyBeanPlays
+facebook:
 flickr:
 gitlab:
-github: FuzzyBeanPlays
-instagram: FuzzyBeanPlays
+github: ShunTheWitch
+instagram:
 keybase:
 linkedin:
 pinterest:
-reddit: FuzzyBeanPlays
+reddit:
 soundcloud:
 stack_overflow:
 stack_exchange:
 steam:
 tumblr:
-twitter: FuzzyBeanPlays
+twitter: ShunTheWitch
 vimeo:
 wordpress:
-youtube: FuzzyBeanPlays
-twitch: fuzzybeanplays
+youtube:
+twitch: shun_the_witch
 
 # Share button options
 share:
-  facebook: true
+  facebook: 
   twitter: true
   tumblr:
   pinterest:
   pocket:
-  reddit: true
+  reddit: 
   linkedin:
   wordpress:
   email: true
